@@ -1,3 +1,6 @@
+/* Percobaan mengakses member class yang
+di beri akses modifier dari package yang berbeda */
+
 package paketA;
 
 public class G_Mobil {
